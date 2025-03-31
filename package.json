@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://yourusername.github.io/date-and-time",
+  "homepage": "https://darshann2001.github.io/DateTime",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
