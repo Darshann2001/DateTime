@@ -9,7 +9,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "deploy": "gh-pages -d dist && echo '\nDeployment complete! Your site is now available at: https://darshann2001.github.io/DateTime/\n'"
   },
   "dependencies": {
     "react": "^18.2.0",
